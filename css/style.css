@@ -139,7 +139,7 @@ button:focus {
       background: #e45447;
       margin-left: -5px;
       border-radius: 50%; }
-      @media (max-width: 767px) {
+      @media (max-width: 640px) {
         .main-title h1:after {
           display: none; } }
   .main-title p {
