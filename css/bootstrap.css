@@ -4365,7 +4365,7 @@ input[type=submit].btn-block {
     }
 }
 
-@media (min-width:320px) {
+@media (min-width:220px) {
     .navbar-expand-lg {
         -ms-flex-flow: row nowrap;
         flex-flow: row nowrap;
