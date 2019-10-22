@@ -4339,7 +4339,7 @@ input[type=submit].btn-block {
     }
     .navbar-expand-md .navbar-nav .nav-link {
         padding-right: .5rem;
-        padding-left: .5rem
+        padding-left: .5rem;
     }
     .navbar-expand-md>.container,
     .navbar-expand-md>.container-fluid {
